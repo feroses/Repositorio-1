@@ -128,3 +128,6 @@ C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\ref\FrontEnd.dll
 C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\FrontEnd.pdb
 C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\FrontEnd.genruntimeconfig.cache
 C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.CopyComplete
+C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\Razor\Pages\DatosPersona\CrearPersona.cshtml.g.cs
+C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\Razor\Pages\DatosPersona\EditarPersona.cshtml.g.cs
+C:\Misiontic2022\Estacion\FrontEnd\obj\Debug\net5.0\Razor\Pages\DatosPersona\Persona.cshtml.g.cs
