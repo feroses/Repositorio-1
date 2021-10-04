@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lapedreria\\.nuget\\packages\\": {}
+    "C:\\Users\\Jhon Bartolo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aplicacion1\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "C:\\Misiontic2022\\Estacion\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "D:\\Aplicacion1\\FrontEnd\\FrontEnd.csproj",
-      "packagesPath": "C:\\Users\\lapedreria\\.nuget\\packages\\",
-      "outputPath": "D:\\Aplicacion1\\FrontEnd\\obj\\",
+      "projectPath": "C:\\Misiontic2022\\Estacion\\FrontEnd\\FrontEnd.csproj",
+      "packagesPath": "C:\\Users\\Jhon Bartolo\\.nuget\\packages\\",
+      "outputPath": "C:\\Misiontic2022\\Estacion\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lapedreria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jhon Bartolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
