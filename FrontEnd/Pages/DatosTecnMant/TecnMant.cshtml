@@ -2,8 +2,10 @@
 @model FrontEnd.Pages.TecnMantModel
 @{
 }
-<h1>PRUEBA TECNICO MANTENIMIENTO</h1>
-<h2>Ingreso de datos</h2>
+<h1></h1>
+<div class="text-center">
+<h2>INGRESO DE DATOS REPORTE</h2>
+</div>
 <section class="form_wrap">
 
         <section class="cantact_info">
@@ -12,8 +14,8 @@
                 <h2>REPORTES<br><br><br>SISTEMA<br>METEOROLOGICO<br></h2>
             </section>
             <section class="info_items">
-                <p><span class="fa fa-envelope"></span> Administrador </p>
-                <p><span class="fa fa-mobile"></span>+57  320632</p>
+                <p><span class="fa fa-envelope"></span>  </p>
+                <p><span class="fa fa-mobile"></span> </p>
             </section>
         </section>
 
@@ -23,21 +25,22 @@
                 <label for="names">Nombres *</label>
                 <input type="text" id="names">
 
-                <label for="mensaje">Cargo de la persona que hace el reporte *</label>
+                <label for="mensaje">Tipo de Reporte *</label>
                 <textarea id="mensaje"></textarea>
 
-                <label for="email">Correo electronico *</label>
-                <input type="text" id="email">
-               
-
-                <label for="mensaje">Digitar Reporte : *</label>
+                <label for="mensaje">Descripcion Reporte*</label>
+                <textarea id="mensaje"></textarea>
+            
+                <label for="mensaje">Digitar Reporte *</label>
                 <textarea id="mensaje"></textarea>
                 <label for="mensaje">Fecha del Reporte : </label>
                 <form>
                 <input type="datetime-local" name="fechahora">
                 </form>
-
-                <input type="button" value="Enviar Mensaje" id="btnSend">
+                
+               
+  
+                <input type="button" value="GUARDAR" id="guardar">
             </div>
         </form>
 
