@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJ3CKDuTtZ9WuGM5XC5DTO+Dzojpw7uTLrPzZPSgS7We3BzT5eJg7utRhS6w6xr3/A4f49pWJxG+2oasSYi+fQ==",
+  "success": true,
+  "projectFilePath": "D:\\Aplicacion1\\INTEGRACION\\Aplicacion.App\\Aplicacion.App.Dominio\\Aplicacion.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lapedreria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lapedreria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
